@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PrasadBelure/turfbooking1.git/static/css/main.1837a589.css",
-    "main.js": "/PrasadBelure/turfbooking1.git/static/js/main.91307a17.js",
-    "static/js/453.f3fa11fa.chunk.js": "/PrasadBelure/turfbooking1.git/static/js/453.f3fa11fa.chunk.js",
-    "index.html": "/PrasadBelure/turfbooking1.git/index.html",
-    "main.1837a589.css.map": "/PrasadBelure/turfbooking1.git/static/css/main.1837a589.css.map",
-    "main.91307a17.js.map": "/PrasadBelure/turfbooking1.git/static/js/main.91307a17.js.map",
-    "453.f3fa11fa.chunk.js.map": "/PrasadBelure/turfbooking1.git/static/js/453.f3fa11fa.chunk.js.map"
+    "main.css": "/PrasadBelure/turf.git/static/css/main.1837a589.css",
+    "main.js": "/PrasadBelure/turf.git/static/js/main.e15a60f2.js",
+    "static/js/453.f3fa11fa.chunk.js": "/PrasadBelure/turf.git/static/js/453.f3fa11fa.chunk.js",
+    "index.html": "/PrasadBelure/turf.git/index.html",
+    "main.1837a589.css.map": "/PrasadBelure/turf.git/static/css/main.1837a589.css.map",
+    "main.e15a60f2.js.map": "/PrasadBelure/turf.git/static/js/main.e15a60f2.js.map",
+    "453.f3fa11fa.chunk.js.map": "/PrasadBelure/turf.git/static/js/453.f3fa11fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1837a589.css",
-    "static/js/main.91307a17.js"
+    "static/js/main.e15a60f2.js"
   ]
 }
