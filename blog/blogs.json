@@ -1,0 +1,61 @@
+[
+  {
+      "id": 1,
+      "title": "Legendary Suit Up!",
+      "description": "Today, I'll teach you how to suit up like a legend. No one suits up better than me!",
+      "details": "In this blog, we'll delve into the art of dressing sharply and confidently. From selecting the perfect suit to accessorizing with finesse, I'll share my top tips and tricks for mastering the art of suiting up. Get ready to elevate your style game and leave a lasting impression wherever you go!",
+      "image": "img/suit-up.webp",
+      "time": "10:00 AM",
+      "more_info": "https://www.realmenrealstyle.com/suit-up/"
+  },
+  {
+      "id": 2,
+      "title": "The Bro Code: A Guide to Bros Everywhere",
+      "description": "Learn the rules of the bro code and become a true bro. Bros before hoes!",
+      "details": "Join me as we explore the unspoken rules and camaraderie of the bro code. From loyalty and respect to always having each other's backs, we'll uncover what it truly means to be a bro. Whether you're navigating friendships or seeking advice on bro-centric activities, this guide has got you covered.",
+      "image": "img/the-bros-logo.jpg",
+      "time": "12:00 PM",
+      "more_info": "https://www.brobible.com/"
+  },
+  {
+      "id": 3,
+      "title": "How to Create the Perfect Playbook",
+      "description": "In this blog, I'll share my secrets for creating the ultimate playbook for picking up chicks.",
+      "details": "Discover my proven strategies and techniques for mastering the art of flirting and charming the ladies. From crafting the perfect opening line to mastering body language, this playbook will equip you with all the tools you need to succeed in the dating game. Get ready to unleash your inner Casanova!",
+      "image": "img/img 3.jpg",
+      "time": "2:00 PM",
+      "more_info": "https://www.askmen.com/dating/"
+  },
+  {
+      "id": 4,
+      "title": "Legendary Nightlife in New York City",
+      "description": "Join me on a journey through the legendary nightlife of New York City. Suit up and let's go!",
+      "details": "Embark on an unforgettable adventure as we explore the vibrant and electrifying nightlife scene of the Big Apple. From iconic clubs and rooftop bars to hidden speakeasies, I'll take you on a tour of the hottest spots in town. Get ready to dance the night away and make memories that will last a lifetime!",
+      "image": "img/ny.jpeg",
+      "time": "4:00 PM",
+      "more_info": "https://www.timeout.com/newyork/nightlife"
+  },
+  {
+      "id": 5,
+      "title": "The Art of the Scotch: A Guide for Gentlemen",
+      "description": "Discover the finer points of enjoying scotch like a true gentleman. Suit up and raise your glass!",
+      "details": "Indulge in the sophisticated world of Scotch whisky as we explore its rich history, production process, and tasting rituals. From peaty Islay malts to smooth Highland drams, I'll guide you through a sensory journey that will awaken your palate and deepen your appreciation for this timeless spirit. Cheers to the art of Scotch!",
+      "image": "img/vodka.webp",
+      "time": "6:00 PM",
+      "more_info": "https://www.thespruceeats.com/scotch-whisky-4683850"
+  } , 
+
+  {
+    "id": 6,
+    "title": "The Playbook: Legendary Strategies for Winning at Life",
+    "description": "Unlock the secrets of the Playbook and conquer any challenge like a true bro!",
+    "details": "Bro, are you ready to take your game to the next level? In this blog post, I'm going to let you in on one of my most legendary secrets: the Playbook. From the classic 'Lorenzo von Matterhorn' to the infamous 'He's Not Coming,' the Playbook is packed with foolproof strategies for winning at life, love, and everything in between. Learn how to read the signs, seize the moment, and leave a lasting impression that will have everyone in awe of your legendary skills. Whether you're trying to score a date, seal the deal, or just have a good time, the Playbook has got you covered. So grab your wingman, dust off your best suit, and get ready to unleash the legend within!",
+    "image": "img/winner.jpg",
+    "time": "9:00 PM",
+    "more_info": "https://how-i-met-your-mother.fandom.com/wiki/The_Playbook"
+  }
+  
+
+
+  
+]
